@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #222;
+  background-color: #fff;
+  text-align: center;
+  line-height: 1.4em;
+}
+
+main {
+  padding: 0;
+  margin-top: 40px;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+.f-all{
+  background-color: aquamarine;
+  padding: 10px;
+  font-family:'papyrus';
+  color: black;
+  border-radius: 10px;
+}
+
+#btn{
+  border-radius: 10px;
+  color:darkslategray;
+  margin-left: 10px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.user-stories li {
+  margin-bottom: 1em;
+}
+
+a {
+  color: #2574a9;
+}
+
+form {
+  margin: 10px auto;
+  padding: 20px;
+  max-width: 600px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input {
+  padding: 5px;
+}
+
+input[type='text'] {
+  width: 220px;
+  text-align: center;
+}
+
+#url_input{
+  border-radius: 5px;
+}
