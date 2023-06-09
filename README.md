@@ -11,7 +11,7 @@ The URL Shortener Microservice is an open-source project hosted on GitHub. It pr
 ## Repository Contents  
 The GitHub repository for the URL Shortener Microservice contains the following key files and directories:  
 
-**src:** This directory includes the source code for the microservice implementation.  
+**index.js, index.html, style.css:** This files includes the source code for the microservice implementation.  
 **config:** The configuration files necessary for setting up and customizing the microservice.  
 **README.md:** The readme file provides information about the project, installation instructions, and usage guidelines.  
 
